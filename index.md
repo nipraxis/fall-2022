@@ -29,6 +29,10 @@ Expect the pilot course to be a little rough round the edges, but otherwise
 complete and coherent.   We will use the pilot to make sure we have the
 technology working and to iron out an issues with organization and scheduling.
 
+## When will it be?
+
+The course will run from early May to the beginning of July, 2022.
+
 ## Why should I join the pilot?
 
 The advantage to you, in joining this first version of the class, is that we will enroll a much small number of students.  This will give you a lot more contact time with us, the instructors.   You will also have some influence in what we teach and how we teach, because we always find we adapt the materials to the questions and problems that come up.
