@@ -6,5 +6,5 @@ website: https://wp.unil.ch/connectomics/team/oscar-esteban
 photo: oscar-photo.jpg
 ---
 
-I am a Research and Teaching Ambizione FNS Fellow at the Service of Radiology
-of the Lausanne University Hospital (CHUV) and University of Lausanne.
+I am a Research and Teaching SNSF Fellow at the Lausanne University Hospital (CHUV) and University of Lausanne.
+I am a Python enthusiast and worried about the reliability of neuroimaging measurements and an active member of the [*NiPreps Community*](https://nipreps.org).
