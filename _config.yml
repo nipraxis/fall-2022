@@ -14,7 +14,7 @@
 # so on.  You can create any custom variable you would like, and they will be
 # accessible in the templates via {{ site.myvariable }}.
 title: Neuroimaging in practice
-tagline: Neuroimaging in Practice - spring 2022
+tagline: Neuroimaging in Practice - Spring 2022
 description: "A hands-on live online course on the principles and practice
   of working with functional brain imaging data"
 author: Nipraxis team
