@@ -39,6 +39,6 @@ The advantage to you, in joining this first version of the class, is that we wil
 
 Who knows, you might also consider becoming a Teaching Assistant for the Fall iteration.  You might do this if you want teaching experience, and if you want to learn more from us, your instructors.
 
-## How to I join
+## How do I join?
 
 Please contact one of the instructors by email - see the instructors page.
