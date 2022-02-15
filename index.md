@@ -47,7 +47,13 @@ contact time with us, the instructors.   You will also have some influence in
 what we teach and how we teach, because we always find we adapt the materials
 to the questions and problems that come up.
 
-Who knows, you might also consider becoming a Teaching Assistant for the Fall iteration.  You might do this if you want teaching experience, and if you want to learn more from us, your instructors.
+Who knows, you might also consider becoming a Teaching Assistant for the Fall
+iteration.  You might do this if you want teaching experience, and if you want
+to learn more from us, your instructors.
+
+## How much does it cost?
+
+The pilot course will be completely free.
 
 ## How much time will it take?
 
