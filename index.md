@@ -59,7 +59,7 @@ The pilot course will be completely free.
 
 We ask you to commit yourself to:
 
-* 8 weeks, from March through early-May 2022.
+* 8 weeks, from mid-March through early May 2022.
 * 1 hour per week of independent study, either reading or videos.
 * Two 1.5 hour live sessions on Zoom
 * 1-2 hours per week of homework / group work.
