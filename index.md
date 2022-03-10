@@ -36,8 +36,8 @@ page](about#resources)).
 
 ## When will it be?
 
-The Spring course will run from the week starting 14th March 2022, to early
-May.
+The Spring course will run from the week starting 28th March
+2022, through May.
 
 ## Why should I join the pilot?
 
@@ -59,7 +59,7 @@ The pilot course will be completely free.
 
 We ask you to commit yourself to:
 
-* 8 weeks, from mid-March through early May 2022.
+* 8 weeks, from the end of March through May 2022.
 * 1 hour per week of independent study, either reading or videos.
 * Two 1.5 hour live sessions on Zoom
 * 1-2 hours per week of homework / group work.
