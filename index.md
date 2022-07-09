@@ -24,44 +24,25 @@ the course, including a rough schedule of classes.
 
 ## About this iteration
 
-Please note, this is a *pilot* version of the course.  The first full version
-of the course will be the Fall 2022 iteration.  The Fall version will run from
-around the beginning of August to the end of September.
-
-Expect the pilot course to be a little rough round the edges, but otherwise
-complete and coherent.   We will use the pilot to make sure we have ironed out
-any teething problems with technology and organization.  Expect the problems
-to be minor - we have taught similar courses before (see [the about
-page](about#resources)).
+This is the first full version of the course.  We have already run a pilot
+version of the course, and we have taught versions of this course previously
+in Berkeley — see [the about page](about#resources)).
 
 ## When will it be?
 
-The Spring course will run from the week starting 28th March
-2022, through May.
-
-## Why should I join the pilot?
-
-The advantage to you, in joining this first version of the class, is that we
-will enroll a much smaller number of students.  This will give you a lot more
-contact time with us, the instructors.   You will also have some influence in
-what we teach and how we teach, because we always find we adapt the materials
-to the questions and problems that come up.
-
-Who knows, you might also consider becoming a Teaching Assistant for the Fall
-iteration.  You might do this if you want teaching experience, and if you want
-to learn more from us, your instructors.
+The Fall course will run from the week starting 8th August 2022, through to the end of September.
 
 ## How much does it cost?
 
-The pilot course will be completely free.
+The course is completely free.
 
 ## How much time will it take?
 
 We ask you to commit yourself to:
 
-* 8 weeks, from the end of March through May 2022.
+* 8 weeks, from the 8th August through the end of September 2022.
 * 1 hour per week of independent study, either reading or videos.
-* Two 1.5 hour live sessions on Zoom
+* Two 2 hour live sessions on Zoom
 * 1-2 hours per week of homework / group work.
 
 That's 5-6 hours per week for 8 weeks.

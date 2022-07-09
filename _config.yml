@@ -14,11 +14,11 @@
 # so on.  You can create any custom variable you would like, and they will be
 # accessible in the templates via {{ site.myvariable }}.
 title: Neuroimaging in practice
-tagline: Neuroimaging in Practice - Spring 2022
+tagline: Neuroimaging in Practice - Fall 2022
 description: "A hands-on live online course on the principles and practice
   of working with functional brain imaging data"
 author: Nipraxis team
-baseurl: '/spring-2022' # the subpath of your site, e.g. /blog
+baseurl: '/fall-2022' # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: 'https://nipraxis.org'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
