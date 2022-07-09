@@ -26,7 +26,7 @@ the course, including a rough schedule of classes.
 
 This is the first full version of the course.  We have already run a pilot
 version of the course, and we have taught versions of this course previously
-in Berkeley — see [the about page](about#resources)).
+in Berkeley — see [the about page](about#resources).
 
 ## When will it be?
 
