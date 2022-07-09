@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and
 # so on.  You can create any custom variable you would like, and they will be
 # accessible in the templates via {{ site.myvariable }}.
-title: Neuroimaging in practice
-tagline: Neuroimaging in Practice - Fall 2022
-description: "A hands-on live online course on the principles and practice
+title: Practice and theory of brain imaging
+tagline: Practice and theory of brain imaging  - Fall 2022
+description: "A hands-on live online course on the practice and theory
   of working with functional brain imaging data"
 author: Nipraxis team
 baseurl: '/fall-2022' # the subpath of your site, e.g. /blog
