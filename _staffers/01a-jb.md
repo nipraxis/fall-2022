@@ -1,5 +1,5 @@
 ---
-name: Jean-Baptise Poline
+name: Jean-Baptiste Poline
 role: Instructor
 email: jean-baptiste.poline@mcgill.ca
 website: https://www.mcgill.ca/neuro/jean-baptiste-poline-phd
