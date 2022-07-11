@@ -8,4 +8,5 @@ We are recruiting for the Fall 2022 version of the course!
 
 See the main course page for detail.
 
-Please contact one of the instructors by email if you'd like to join.
+Please apply using [this form](https://forms.gle/BKktUYTRoqxecwK79).
+Feel free to contact one of the instructors by email with any questions.
