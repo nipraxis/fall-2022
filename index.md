@@ -45,7 +45,7 @@ We ask you to commit yourself to:
 * Two 2 hour live sessions on Zoom
 * 1-2 hours per week of homework / group work.
 
-That's 5-6 hours per week for 8 weeks.
+That's 6-7 hours per week for 8 weeks.
 
 ## How do I join?
 
