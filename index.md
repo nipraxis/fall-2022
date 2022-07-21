@@ -68,8 +68,8 @@ analysis before, but that is not a requirement.
 
 ## How do I join?
 
-See below for more detail - but you join by [filling in the form](
-https://forms.gle/R7ggZGrqSNhgRSGn9).
+See below for more detail - but please apply to join by [filling in
+the form]( https://forms.gle/R7ggZGrqSNhgRSGn9).
 
 We would like you to join in groups of around 3.  We believe this will
 help your learning and engagement with the course; you will learn a
